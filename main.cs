@@ -6,7 +6,8 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello World");
+        Console.WriteLine("The area of a rectangle with a length of 5 and a width of 3 is:");
+      Console.WriteLine((5 * 3) + "cm squared");
         Console.WriteLine("\nFinished.");
     }
 }

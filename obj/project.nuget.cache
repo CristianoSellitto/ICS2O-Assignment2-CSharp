@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/DJYkJczWgwOxYzfg6+bgj2lw1HiE4teCgiVh1JXTMdteDux0ZcLIQB508ErXnQULLu/cPSMYJIV7uOhTw411Q==",
+  "dgSpecHash": "55YcmgguTLEg7SUak/NcWufoM3pl1jC1iat4FdSW6NdjzzXjUV+dAbCPOee4DBEDM/VpbIEdAlxQpLBLULpVBw==",
   "success": true,
-  "projectFilePath": "/home/runner/CSharp/main.csproj",
+  "projectFilePath": "/home/runner/ICS2O-Assignment2-CSharp/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
