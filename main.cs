@@ -1,4 +1,6 @@
-// Cristiano | ICS2O-Assignment2-CSharp | March 11 2022
+// Cristiano
+// ICS2O-Assignment2-CSharp
+// March 11 2022
 
 using System;
 
