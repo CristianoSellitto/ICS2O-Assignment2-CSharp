@@ -8,15 +8,15 @@ class Program
 {
     public static void Main(string[] args)
     {
-        int length;
-        int width;
-        Console.WriteLine("The area of a triangle with a length of 5 and a width of 3 is:");
-        Console.WriteLine((5 * 3) + "cm²");
-        Console.WriteLine("Add the length of your triangle:");
-        length = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Add the width of your triangle:");
-        width = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Your triangle's area is " + (length * width / 2) + "cm²");
+        int basetriangle;
+        int heighttriangle;
+        Console.WriteLine("The area of a triangle with a base of 5 and a height of 4 is:");
+        Console.WriteLine((5 * 4 / 2) + "cm²");
+        Console.WriteLine("Add the base of your triangle:");
+        basetriangle = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Add the height of your triangle:");
+        heighttriangle = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Your triangle's area is " + (basetriangle * heighttriangle / 2) + "cm²");
         Console.WriteLine("\nFinished.");
     }
 }
